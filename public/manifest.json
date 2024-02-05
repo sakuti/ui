@@ -1,0 +1,13 @@
+{
+	"short_name": "ui",
+	"name": "ui",
+	 "id": "ui",
+	 "orientation": "portrait-primary",
+	 "display_override": ["standalone"],
+	 "description": "The description is undefined for this ui builerplate application.",
+	"background_color": "#101010",
+	"theme_color": "#101010",
+	"display": "standalone",
+	"start_url": "/",
+	"scope": "/"
+}
